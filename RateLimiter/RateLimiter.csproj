@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="DataAccess\" />
+    <Folder Include="Handler\" />
+  </ItemGroup>
 </Project>  
